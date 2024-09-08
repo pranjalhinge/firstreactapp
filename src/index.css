@@ -2,11 +2,12 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  border-radius: 5px;
   
 }
 
 *{
- background-color: whitesmoke;
+ background-color: white;
 }
 .center{
   display: flex;
